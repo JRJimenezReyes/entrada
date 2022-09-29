@@ -2,7 +2,8 @@ apply plugin: 'java'
 apply plugin: 'maven-publish'
 
 group = 'com.github.JRJimenezReyes'
-version = '1.0.0'
+archivesBaseName = 'entrada'
+version = '1.0.1'
 
 repositories {
   mavenCentral()
