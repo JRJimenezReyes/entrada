@@ -57,8 +57,6 @@ repositories {
 
 dependencies {
     ...
-	api 'com.github.JRJimenezReyes:entrada:+'
+	api 'com.github.JRJimenezReyes:entrada:1.0.3'
 }
 ~~~
-
-Se puede sustituir el `+`por la versión concreta: `api 'com.github.JRJimenezReyes:entrada:1.0.2'`
