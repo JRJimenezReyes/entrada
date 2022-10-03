@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  * Clase que nos permite leer datos por teclado asegurándose
  * que el tipo de dato introducido es compatible con el esperado.
  * 
- * @author pepino
+ * @author José Ramón Jiménez Reyes
  */
 public class Entrada {
 	
